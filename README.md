@@ -14,3 +14,5 @@ SkeletonView   加载网络的占位图 像简书等 白色的动画
 [百度前端团队](https://github.com/fex-team/)
 
 [好多技术书籍pdf](https://github.com/iamshuaidi/CS-Book)
+
+[electron-vue](https://simulatedgreg.gitbooks.io/electron-vue/content/cn/using-electron-builder.html)
