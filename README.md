@@ -24,3 +24,5 @@ SkeletonView   加载网络的占位图 像简书等 白色的动画
 [慕课网ios面试](https://github.com/liuaaaddxiaoer/ReadyForBAT)
 
 [内网穿透工具nps](https://github.com/cnlh/nps)
+
+[babel webpack](https://www.cnblogs.com/tugenhua0707/p/9452471.html)
