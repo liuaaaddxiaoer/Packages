@@ -26,3 +26,5 @@ SkeletonView   加载网络的占位图 像简书等 白色的动画
 [内网穿透工具nps](https://github.com/cnlh/nps)
 
 [babel webpack](https://www.cnblogs.com/tugenhua0707/p/9452471.html)
+
+[cocoapods转静态库插件](https://github.com/leavez/cocoapods-static-swift-framework)
