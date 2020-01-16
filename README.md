@@ -35,3 +35,4 @@ SkeletonView   加载网络的占位图 像简书等 白色的动画
 
 [flutter widget online](https://github.com/blankapp)
 
+[simctl](https://blog.csdn.net/TuGeLe/article/details/80848300)
